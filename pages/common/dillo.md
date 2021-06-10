@@ -7,9 +7,9 @@
 
 `dillo`
 
-- Open Dillo at a specific size and screen location (format: width, height, x_placement and y_placement):
+- Open Dillo with a specific window size and screen location:
 
-`dillo --geometry {{500x500+250+125}}`
+`dillo --geometry {{width}}x{{height}}+{{x_position}}+{{y_position}}`
 
 - Open Dillo and show a file or directory:
 
