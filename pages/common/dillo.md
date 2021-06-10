@@ -15,7 +15,7 @@
 
 `dillo {{path/to/file_or_directory}}`
 
-- Open Dillo at full-screen:
+- Open Dillo in full-screen mode:
 
 `dillo --fullwindow`
 
